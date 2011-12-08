@@ -38,4 +38,5 @@ group :test do
   # Pretty printed test output
   gem 'rspec-rails'
   gem 'webrat'
+  gem 'spork'
 end
